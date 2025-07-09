@@ -1,0 +1,1 @@
+# ApacheNIFI-AWS-snowflake-project
